@@ -1,2 +1,1 @@
-# .github
-Readme for the MRVN-Radiant organization
+Repository to store the MRVN-Radiant organization README.md
